@@ -4,14 +4,14 @@
 [<img src="https://img.shields.io/badge/NarendraReddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/narendrareddyyadama)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/narednra_reddyyadama_d64)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chintusamala96@gmail.com"/>](mailto:narendrareddy.yadama@gmail.com)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://yadamanarendrareddy.github.io/Narendra-Portfolio/vcard-personal-portfolio-master/)
+<!-- [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://yadamanarendrareddy.github.io/Narendra-Portfolio/vcard-personal-portfolio-maste/)-->
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YadamaNarendraReddy)
 
 ---
 
 ## About Me 🙋
 
-&nbsp;&nbsp;&nbsp; I am a Java full stack developer with a passion driven development having **4+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects. Currently Working on Java Spring Boot building microservices.
+&nbsp;&nbsp;&nbsp; I am a Senior Software Engineer with a passion driven development having **9 years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects. Currently Working onUX/UI, Python, Figma, JavaScript, TypeScript, Java Spring Boot building microservices.
 
 ## Skill Set 💪
 
